@@ -1,16 +1,18 @@
-## Hi there 👋
+## ¡Hola, soy Meenn! 👋
 
-<!--
-**PablitoMeenn/pablitomeenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador y creador enfocado en construir cosas útiles y compartir ideas en línea.
 
-Here are some ideas to get you started:
+### Contacto
+- 💬 Discord: pablitomeenn
+- 🌐 Sitio web: https://melacorneta.cl
+- 📧 Correo: meenn@melacorneta.cl
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sobre mí
+- 🚀 Interesado en tecnología, redes y juegos.
+- 💡 Siempre aprendiendo y mejorando mis habilidades.
+- 🌍 Buscando crear una presencia sólida en línea.
+
+### Enlaces rápidos
+- [Sitio web](https://meenn.cl)
+- [Discord](https://discord.com)
+- [Correo](mailto:meenn@melacorneta.cl)
