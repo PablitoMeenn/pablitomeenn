@@ -13,6 +13,5 @@ Desarrollador y creador enfocado en construir cosas útiles y compartir ideas en
 - 🌍 Buscando crear una presencia sólida en línea.
 
 ### Enlaces rápidos
-- [Sitio web](https://meenn.cl)
-- [Discord](https://discord.com)
+- [Sitio web](https://melacorneta.cl)
 - [Correo](mailto:meenn@melacorneta.cl)
